@@ -1,0 +1,6 @@
+{
+  "name": "HackVerse",
+  "description": "AI-Powered Student Hackathon Ecosystem for discovery, challenge decoding, team matching, preparation, and project improvement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
